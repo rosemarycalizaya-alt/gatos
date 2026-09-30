@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+
+.contenedor{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+
+.header{
+    text-align: center;
+    padding: 50px 0;
+    font-size: 20px;
+}
+
+
+.header span{
+    color: #e69e9e;
+  
+}
+.contenedor-navegador{
+    border-top: 1px solid #f0e9e9;
+}
+
+.navegador{
+    display: flex;
+   justify-content: space-between;
+   padding: 20px 0;
+}
